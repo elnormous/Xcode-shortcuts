@@ -13,6 +13,7 @@
 | Show/Hide Utilities | Command Option 0 |
 
 ## Building
+
 | Function | Shortcut |
 |-----------|----------|
 | Run | Command R |
