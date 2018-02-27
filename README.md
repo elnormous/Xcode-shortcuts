@@ -46,6 +46,13 @@
 | Show Group Files | Control 5 |
 | Show Document Items | Control 6 |
 | Jump To (Line) | Command L |
+| Move Up | Up or Control P |
+| Move Down | Down or Control N |
+| Move Back | Left or Control B |
+| Move Forward | Right or Control F |
+| Move Back One Word | Control Option B |
+| Move Forward One Word | Control Option F |
+| Move to End of Paragraph | Control E |
 
 ## Editor
 | Function | Shortcut |
