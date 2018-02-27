@@ -16,3 +16,6 @@
 | Find Text in Project | Command Shift F |
 | Re-Indent code | Control I |
 | Show/Hide Completions | Escape or Control Space |
+| Move Focus To Editor | Command J |
+| Move Focus To Next Area | Command Option ` |
+| Move Focus To Next Editor | Control ` |
