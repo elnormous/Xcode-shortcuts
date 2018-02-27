@@ -52,6 +52,7 @@
 | Move Forward | Right or Control F |
 | Move Back One Word | Control Option B |
 | Move Forward One Word | Control Option F |
+| Move to Beginning of Paragraph | Control A |
 | Move to End of Paragraph | Control E |
 
 ## Editor
@@ -63,3 +64,4 @@
 | Edit All in Scope | Control Command E |
 | Comment Selection | Command / |
 | Show/Hide Completions | Escape or Control Space |
+| Delete to End of Paragraph | Control K |
