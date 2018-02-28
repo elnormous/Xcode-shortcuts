@@ -64,8 +64,8 @@
 | Function | Shortcut |
 |-----------|----------|
 | Re-Indent code | Control I |
-| Move Line Up | Command [ |
-| Move Line Down | Command ] |
+| Move Line Up | Command Option [ |
+| Move Line Down | Command Option ] |
 | Edit All in Scope | Control Command E |
 | Comment Selection | Command / |
 | Show/Hide Completions | Escape or Control Space |
