@@ -70,3 +70,4 @@
 | Comment Selection | Command / |
 | Show/Hide Completions | Escape or Control Space |
 | Delete to End of Paragraph | Control K |
+| Select Structure | Command Shift A |
