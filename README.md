@@ -54,6 +54,9 @@
 | Move Forward One Word | Control Option F |
 | Move to Beginning of Paragraph | Control A |
 | Move to End of Paragraph | Control E |
+| Jump to Definition | Control Command J |
+| Show Previous History | Control 2 |
+| Show Next History | Control 3 |
 
 ## Editor
 | Function | Shortcut |
