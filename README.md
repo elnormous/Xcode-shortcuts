@@ -54,6 +54,8 @@
 | Move Forward One Word | Control Option F |
 | Move to Beginning of Paragraph | Control A |
 | Move to End of Paragraph | Control E |
+| Move Page Up | Alt Page Up |
+| Move Page Down | Control V or Alt Page Down |
 | Jump to Definition | Control Command J |
 | Show Previous History | Control 2 |
 | Show Next History | Control 3 |
