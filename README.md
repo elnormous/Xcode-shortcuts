@@ -46,6 +46,7 @@
 | Show Group Files | Control 5 |
 | Show Document Items | Control 6 |
 | Jump To (Line) | Command L |
+| Insert Newline | Control O |
 | Move Up | Up or Control P |
 | Move Down | Down or Control N |
 | Move Back | Left or Control B |
