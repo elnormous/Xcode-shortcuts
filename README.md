@@ -45,6 +45,7 @@
 | Show Top Level Items | Control 4 |
 | Show Group Files | Control 5 |
 | Show Document Items | Control 6 |
+| Jump To Next Counterpart | Control Command Up |
 | Jump To (Line) | Command L |
 | Insert Newline | Control O |
 | Move Up | Up or Control P |
@@ -72,3 +73,5 @@
 | Show/Hide Completions | Escape or Control Space |
 | Delete to End of Paragraph | Control K |
 | Select Structure | Command Shift A |
+| Reset Assistant Editor | Control Command Option Z |
+| Show Assistant Editor | Command Option Enter |
