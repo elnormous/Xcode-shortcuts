@@ -71,6 +71,7 @@
 | Edit All in Scope | Control Command E |
 | Comment Selection | Command / |
 | Show/Hide Completions | Escape or Control Space |
+| Delete Forward | Control D |
 | Delete to End of Paragraph | Control K |
 | Select Structure | Command Shift A |
 | Reset Assistant Editor | Control Command Option Z |
