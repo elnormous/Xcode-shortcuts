@@ -18,6 +18,7 @@
 |-----------|----------|
 | Run | Command R |
 | Build | Command B |
+| Compile File | Control Command B |
 | Clean | Command Shift K |
 | Stop Current Task | Command . |
 
