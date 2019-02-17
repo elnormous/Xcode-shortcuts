@@ -67,6 +67,8 @@
 | Function | Shortcut |
 |-----------|----------|
 | Re-Indent code | Control I |
+| Shift Left | Command [ |
+| Shift Right | Command ] |
 | Move Line Up | Command Option [ |
 | Move Line Down | Command Option ] |
 | Edit All in Scope | Control Command E |
