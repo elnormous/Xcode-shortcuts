@@ -17,6 +17,7 @@
 | Function | Shortcut |
 |-----------|----------|
 | Run | Command R |
+| Run Without Building | Control Command R |
 | Build | Command B |
 | Compile File | Control Command B |
 | Clean | Command Shift K |
