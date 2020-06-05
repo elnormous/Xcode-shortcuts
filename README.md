@@ -71,7 +71,7 @@
 | Move Line Up | Command Option [ |
 | Move Line Down | Command Option ] |
 | Edit All in Scope | Control Command E |
-| Comment Selection | Command / |
+| Comment/Uncomment Selection | Command / |
 | Show/Hide Completions | Escape or Control Space |
 | Delete Forward | Control D |
 | Delete to End of Paragraph | Control K |
@@ -82,3 +82,5 @@
 | Select Previous Completion | Control Shift . |
 | Select Next Completion | Control . |
 | Confirm Completion Suggestion | Control / |
+| Fold Code | Command Option Left |
+| Unfold Code | Command Option Right |
