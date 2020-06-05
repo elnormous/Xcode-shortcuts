@@ -78,7 +78,7 @@
 | Select Structure | Command Shift A |
 | Reset Assistant Editor | Control Command Option Z |
 | Show Standard Editor | Command Enter |
-| Show Assistant Editor | Command Option Enter |
+| Show/Hide Assistant Editor | Control Command Option Enter |
 | Select Previous Completion | Control Shift . |
 | Select Next Completion | Control . |
 | Confirm Completion Suggestion | Control / |
