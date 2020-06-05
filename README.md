@@ -35,8 +35,6 @@
 
 | Function | Shortcut |
 |-----------|----------|
-| Show Standard Editor | Command Enter |
-| Show Assistant Editor | Command Option Enter |
 | Show Counterpart in Assistant Editor | Command Option Shift Z |
 | Find | Command F |
 | Find Text in Project | Command Shift F |
@@ -79,4 +77,8 @@
 | Delete to End of Paragraph | Control K |
 | Select Structure | Command Shift A |
 | Reset Assistant Editor | Control Command Option Z |
+| Show Standard Editor | Command Enter |
 | Show Assistant Editor | Command Option Enter |
+| Select Previous Completion | Control Shift . |
+| Select Next Completion | Control . |
+| Confirm Completion Suggestion | Control / |
