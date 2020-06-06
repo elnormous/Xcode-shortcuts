@@ -60,6 +60,8 @@
 | Jump to Definition | Control Command J |
 | Show Previous History | Control 2 |
 | Show Next History | Control 3 |
+| Go Back | Control Command Left |
+| Go Forward | Control Command Right |
 
 ## Editor
 | Function | Shortcut |
