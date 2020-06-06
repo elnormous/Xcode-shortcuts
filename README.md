@@ -35,7 +35,6 @@
 
 | Function | Shortcut |
 |-----------|----------|
-| Show Counterpart in Assistant Editor | Command Option Shift Z |
 | Find | Command F |
 | Find Text in Project | Command Shift F |
 | Open Quickly | Command Shift O |
@@ -76,9 +75,10 @@
 | Delete Forward | Control D |
 | Delete to End of Paragraph | Control K |
 | Select Structure | Command Shift A |
-| Reset Assistant Editor | Control Command Option Z |
 | Show Standard Editor | Command Enter |
 | Show/Hide Assistant Editor | Control Command Option Enter |
+| Reset Assistant Editor | Control Command Option Z |
+| Show Counterpart in Assistant Editor | Command Option Shift Z |
 | Select Previous Completion | Control Shift . |
 | Select Next Completion | Control . |
 | Confirm Completion Suggestion | Control / |
