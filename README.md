@@ -76,6 +76,9 @@
 | Show/Hide Completions | Escape or Control Space |
 | Delete Forward | Control D |
 | Delete to End of Paragraph | Control K |
+| Delete Subword Backward | Control Backspace |
+| Delete Word Backward | Option Backspace |
+| Delete to Beginning of Text | Command Backspace |
 | Select Structure | Command Shift A |
 | Show Standard Editor | Command Enter |
 | Show/Hide Assistant Editor | Control Command Option Enter |
